@@ -1,0 +1,6 @@
+{
+  "name": "KhetKhata",
+  "description": "Simple farm expense and profit tracker for farmers in Maharashtra with Devanagari voice assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

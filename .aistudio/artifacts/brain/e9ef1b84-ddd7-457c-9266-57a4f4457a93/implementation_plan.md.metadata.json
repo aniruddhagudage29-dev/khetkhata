@@ -1,0 +1,6 @@
+{
+  "summary":  "Performance optimization plan for KhetKhata: <=150ms transform/opacity animations, instant 0.97 press scale, removal of infinite animations and heavy shadows, isolated state updates on tap, and fixed grid/button dimensions.",
+  "updatedAt":  "2026-10-28T09:57:55.772651574Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
